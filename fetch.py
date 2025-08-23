@@ -5,9 +5,9 @@ import os
 BASE_DIR = "forecast_files"
 hours = [0, 6, 12, 18]
 now_utc = datetime.utcnow()
-cutoff = now_utc - timedelta(days=1)  # datetime으로 유지, 비교 가능
+cutoff = now_utc - timedelta(days=1)  # datetime으로 유지
 
-# 최신 파일 판단 함수
+# 최신 파일 판단
 def get_latest_file(now):
     if 3 <= now.hour < 9:
         hour = 0
@@ -15,13 +15,12 @@ def get_latest_file(now):
         hour = 6
     elif 15 <= now.hour < 21:
         hour = 12
-    else:  # 21~23, 0~2
+    else:
         hour = 18
     # 전날 파일 고려
+    file_date = now.date()
     if hour == 18 and now.hour < 3:
-        file_date = now.date() - timedelta(days=1)
-    else:
-        file_date = now.date()
+        file_date = file_date - timedelta(days=1)
     return hour, file_date
 
 latest_hour, latest_date = get_latest_file(now_utc)
@@ -34,27 +33,19 @@ def get_check_range(hour, date):
 
 file_check_times = {}
 for h in hours:
-    # 전날 포함
-    if h == 18 and now_utc.hour < 3:
-        file_date = latest_date
-    else:
-        file_date = latest_date
-    start, end = get_check_range(h, file_date)
+    start, end = get_check_range(h, latest_date)
     file_check_times[h] = {'start': start, 'end': end}
 
 # 파일 처리
 for hour in hours:
-    # 날짜별 폴더
-    if hour == 18 and now_utc.hour < 3:
-        file_dt = latest_date
-    else:
-        file_dt = latest_date
+    # 항상 datetime 객체 생성 (날짜 + 시간)
+    file_dt = datetime.combine(latest_date, datetime.min.time()).replace(hour=hour)
 
     folder_name = f"{file_dt.year}_{file_dt.month:02d}_{file_dt.day:02d}"
     save_dir = os.path.join(BASE_DIR, folder_name)
     os.makedirs(save_dir, exist_ok=True)
 
-    filename = f"FNV3_{file_dt.year}_{file_dt.month:02d}_{file_dt.day:02d}T{hour:02d}_00_atcf_a_deck.txt"
+    filename = f"FNV3_{file_dt.year}_{file_dt.month:02d}_{file_dt.day:02d}T{file_dt.hour:02d}_00_atcf_a_deck.txt"
     save_path = os.path.join(save_dir, filename)
     url = f"https://deepmind.google.com/science/weatherlab/download/cyclones/FNV3/ensemble_mean/paired/atcf/{filename}"
 
@@ -76,7 +67,7 @@ for hour in hours:
     except Exception as e:
         print(f"다운로드 실패 ({filename}): {e}")
 
-    # 확인 종료 시간 체크
+    # 확인 종료 시간 체크 및 3시간 연장
     if not os.path.exists(save_path) and now_utc >= file_check_times[hour]['end']:
         file_check_times[hour]['end'] += timedelta(hours=3)
         print(f"{filename} 없음 → 확인 종료 시간 3시간 연장: {file_check_times[hour]['end']}")
