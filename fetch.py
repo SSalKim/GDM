@@ -26,27 +26,35 @@ def get_latest_file(now):
 
 latest_hour, latest_date = get_latest_file(now_utc)
 
-# 확인 범위 (x UTC = (x+6) ±3)
+# 파일별 확인 종료 시간 관리
 def get_check_range(hour, date):
     start = datetime(date.year, date.month, date.day, (hour + 6) % 24) - timedelta(hours=3)
     end = start + timedelta(hours=6)
     return start, end
 
-start_time, end_time = get_check_range(latest_hour, latest_date)
-
-for hour in hours:
-    # 파일 날짜 결정 (전날 포함)
-    if hour == latest_hour and hour == 18 and now_utc.hour < 3:
-        file_dt = datetime(latest_date.year, latest_date.month, latest_date.day, hour)
+file_check_times = {}
+for h in hours:
+    # 전날 포함
+    if h == 18 and now_utc.hour < 3:
+        file_date = latest_date
     else:
-        file_dt = datetime(latest_date.year, latest_date.month, latest_date.day, hour)
+        file_date = latest_date
+    start, end = get_check_range(h, file_date)
+    file_check_times[h] = {'start': start, 'end': end}
 
-    # 날짜별 폴더 생성
+# 파일 처리
+for hour in hours:
+    # 날짜별 폴더
+    if hour == 18 and now_utc.hour < 3:
+        file_dt = latest_date
+    else:
+        file_dt = latest_date
+
     folder_name = f"{file_dt.year}_{file_dt.month:02d}_{file_dt.day:02d}"
     save_dir = os.path.join(BASE_DIR, folder_name)
     os.makedirs(save_dir, exist_ok=True)
 
-    filename = f"FNV3_{file_dt.year}_{file_dt.month:02d}_{file_dt.day:02d}T{file_dt.hour:02d}_00_atcf_a_deck.txt"
+    filename = f"FNV3_{file_dt.year}_{file_dt.month:02d}_{file_dt.day:02d}T{hour:02d}_00_atcf_a_deck.txt"
     save_path = os.path.join(save_dir, filename)
     url = f"https://deepmind.google.com/science/weatherlab/download/cyclones/FNV3/ensemble_mean/paired/atcf/{filename}"
 
@@ -68,7 +76,7 @@ for hour in hours:
     except Exception as e:
         print(f"다운로드 실패 ({filename}): {e}")
 
-    # 확인 범위 끝까지도 파일 없으면 3시간 연장
-    if not os.path.exists(save_path) and now_utc >= end_time:
-        end_time += timedelta(hours=3)
-        print(f"파일 없음, 확인 종료 시간 3시간 연장 → {end_time}")
+    # 확인 종료 시간 체크
+    if not os.path.exists(save_path) and now_utc >= file_check_times[hour]['end']:
+        file_check_times[hour]['end'] += timedelta(hours=3)
+        print(f"{filename} 없음 → 확인 종료 시간 3시간 연장: {file_check_times[hour]['end']}")
