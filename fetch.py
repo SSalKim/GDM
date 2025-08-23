@@ -11,10 +11,9 @@ hours = [18, 12, 6, 0]
 # 확인 날짜: 오늘, 전날
 dates_to_check = [now_utc.date(), (now_utc - timedelta(days=1)).date()]
 
-# 최신 파일 찾기 (역순)
-latest_file_found = None
 for date in dates_to_check:
     for hour in hours:
+        # 날짜별 폴더 생성
         folder_name = f"{date.year}_{date.month:02d}_{date.day:02d}"
         save_dir = os.path.join(BASE_DIR, folder_name)
         os.makedirs(save_dir, exist_ok=True)
@@ -23,7 +22,7 @@ for date in dates_to_check:
         save_path = os.path.join(save_dir, filename)
         url = f"https://deepmind.google.com/science/weatherlab/download/cyclones/FNV3/ensemble_mean/paired/atcf/{filename}"
 
-        # 파일 존재 여부 확인
+        # 다운로드 시도
         try:
             r = requests.get(url, timeout=30)
             r.raise_for_status()
@@ -33,8 +32,7 @@ for date in dates_to_check:
         except Exception as e:
             print(f"다운로드 실패 ({filename}): {e}")
 
-        # 최신 파일 찾으면 종료
-        latest_file_found = filename
-        break
-    if latest_file_found:
-        break
+        # 최신 파일 확인 후 바로 종료
+        break  # 이 파일만 확인하고 루프 종료
+    if os.path.exists(save_path):
+        break  # 해당 날짜에서 최신 파일 찾았으면 종료
