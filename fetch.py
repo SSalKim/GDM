@@ -5,7 +5,7 @@ import os
 BASE_DIR = "forecast_files"
 hours = [0, 6, 12, 18]
 now_utc = datetime.utcnow()
-cutoff = now_utc - timedelta(days=1)
+cutoff = now_utc - timedelta(days=1)  # datetime으로 유지, 비교 가능
 
 # 최신 파일 판단 함수
 def get_latest_file(now):
@@ -15,7 +15,7 @@ def get_latest_file(now):
         hour = 6
     elif 15 <= now.hour < 21:
         hour = 12
-    else:
+    else:  # 21~23, 0~2
         hour = 18
     # 전날 파일 고려
     if hour == 18 and now.hour < 3:
