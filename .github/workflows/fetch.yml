@@ -24,7 +24,7 @@ jobs:
       - name: Fetch typhoon data
         run: |
           mkdir -p forecast_files
-          python fetch_data.py
+          python fetch.py
 
       - name: Commit & push updates
         run: |
