@@ -3,7 +3,7 @@ import requests
 from datetime import datetime, timedelta
 
 # 기본 설정
-BASE_DIR = "downloads"
+BASE_DIR = "forecast_files"
 models = ["FNV3", "GENC"]
 hours = [18, 12, 6, 0]
 
