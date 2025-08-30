@@ -1,10 +1,7 @@
-name: Download GDM ATCF Data
+name: Download Cyclone Data
 
 on:
-  workflow_dispatch:   # 수동 실행 버튼 제공
-  push:                # 코드 push될 때도 실행 가능
-    branches:
-      - main
+  workflow_dispatch:   # 수동 실행 가능
 
 jobs:
   download:
@@ -13,6 +10,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,8 +25,14 @@ jobs:
       - name: Run download script
         run: python download.py
 
-      - name: Upload results
-        uses: actions/upload-artifact@v4
-        with:
-          name: gdm-data-download
-          path: forecast_files/
+      - name: Commit forecast files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add forecast_files
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update forecast_files on $(date -u +'%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
