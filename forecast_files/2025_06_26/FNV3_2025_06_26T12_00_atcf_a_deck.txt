@@ -1,0 +1,10 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+WP, 03, 2025062612, 03, FNV3,   0, 217N, 1098E,  25, 1003, XX,  34, NEQ,    0,    0,    0,    0,     ,     ,  30,
+WP, 03, 2025062612, 03, FNV3,   6, 223N, 1088E,  24, 1002, XX,  34, NEQ,    1,    1,    0,    0,     ,     ,  36,
+WP, 03, 2025062612, 03, FNV3,  12, 234N, 1083E,  22, 1003, XX,  34, NEQ,    0,    1,    1,    0,     ,     ,  37,
+WP, 03, 2025062612, 03, FNV3,  18, 245N, 1078E,  21, 1004, XX,  34, NEQ,    1,    1,    1,    1,     ,     ,  44,

@@ -1,0 +1,13 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+WP, 05, 2025070812, 03, GENC,   0, 280N, 1215E,  58,  991, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070812, 03, GENC,   6, 274N, 1205E,  53,  994, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070812, 03, GENC,  12, 268N, 1196E,  48,  997, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070812, 03, GENC,  18, 264N, 1187E,  49,  997, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070812, 03, GENC,  24, 260N, 1179E,  49,  997, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070812, 03, GENC,  30, 248N, 1165E,  50,  996, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070812, 03, GENC,  36, 239N, 1157E,  50,  996, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,

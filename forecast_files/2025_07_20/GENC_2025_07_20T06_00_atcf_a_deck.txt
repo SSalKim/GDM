@@ -1,0 +1,21 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+WP, 09, 2025072006, 03, GENC,   0, 220N, 1132E,  78,  976, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 09, 2025072006, 03, GENC,   6, 218N, 1121E,  75,  978, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 09, 2025072006, 03, GENC,  12, 215N, 1109E,  73,  980, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 09, 2025072006, 03, GENC,  18, 213N, 1102E,  72,  980, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 09, 2025072006, 03, GENC,  24, 210N, 1095E,  71,  981, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 09, 2025072006, 03, GENC,  30, 209N, 1088E,  72,  980, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 09, 2025072006, 03, GENC,  36, 208N, 1082E,  73,  980, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 09, 2025072006, 03, GENC,  42, 207N, 1075E,  70,  982, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 09, 2025072006, 03, GENC,  48, 206N, 1069E,  67,  984, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 09, 2025072006, 03, GENC,  54, 205N, 1064E,  63,  987, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 09, 2025072006, 03, GENC,  60, 203N, 1059E,  59,  990, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 09, 2025072006, 03, GENC,  66, 203N, 1057E,  57,  991, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 09, 2025072006, 03, GENC,  72, 204N, 1053E,  54,  993, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 09, 2025072006, 03, GENC,  78, 204N, 1048E,  53,  994, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 09, 2025072006, 03, GENC,  84, 204N, 1045E,  51,  995, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,

@@ -1,0 +1,22 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+WP, 04, 2025070706, 03, GENC,   0, 358N, 1483E,  48,  997, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2025070706, 03, GENC,   6, 368N, 1481E,  44, 1000, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2025070706, 03, GENC,  12, 379N, 1479E,  39, 1003, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070706, 03, GENC,   0, 268N, 1218E,  52,  995, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070706, 03, GENC,   6, 272N, 1222E,  53,  994, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070706, 03, GENC,  12, 277N, 1226E,  54,  994, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070706, 03, GENC,  18, 279N, 1224E,  55,  993, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070706, 03, GENC,  24, 282N, 1221E,  56,  992, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070706, 03, GENC,  30, 281N, 1214E,  54,  993, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070706, 03, GENC,  36, 279N, 1206E,  51,  995, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070706, 03, GENC,  42, 276N, 1196E,  51,  996, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070706, 03, GENC,  48, 272N, 1186E,  50,  996, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070706, 03, GENC,  54, 267N, 1191E,  49,  997, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070706, 03, GENC,  60, 262N, 1194E,  48,  997, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070706, 03, GENC,  66, 254N, 1222E,  49,  997, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 05, 2025070706, 03, GENC,  72, 252N, 1232E,  48,  997, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,

@@ -1,0 +1,23 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+WP, 02, 2025062300, 03, GENC,   0, 245N, 1448E,  37, 1004, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 02, 2025062300, 03, GENC,   6, 257N, 1440E,  38, 1003, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 02, 2025062300, 03, GENC,  12, 269N, 1432E,  40, 1002, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 02, 2025062300, 03, GENC,  18, 280N, 1422E,  39, 1003, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 02, 2025062300, 03, GENC,  24, 292N, 1412E,  38, 1004, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 02, 2025062300, 03, GENC,  30, 301N, 1407E,  36, 1004, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 02, 2025062300, 03, GENC,  36, 310N, 1402E,  35, 1005, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 02, 2025062300, 03, GENC,  42, 319N, 1400E,  33, 1006, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 02, 2025062300, 03, GENC,  48, 328N, 1398E,  32, 1007, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 02, 2025062300, 03, GENC,  54, 338N, 1401E,  32, 1007, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 02, 2025062300, 03, GENC,  60, 348N, 1404E,  31, 1007, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 02, 2025062300, 03, GENC,  66, 360N, 1413E,  32, 1007, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 02, 2025062300, 03, GENC,  72, 372N, 1423E,  33, 1006, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 02, 2025062300, 03, GENC,  78, 386N, 1439E,  37, 1004, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 02, 2025062300, 03, GENC,  84, 400N, 1456E,  40, 1002, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 02, 2025062300, 03, GENC,  90, 418N, 1483E,  44, 1000, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 02, 2025062300, 03, GENC,  96, 434N, 1508E,  48,  997, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
