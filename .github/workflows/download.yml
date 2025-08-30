@@ -1,4 +1,4 @@
-name: Download Cyclone Data
+name: Download GDM ATCF Data
 
 on:
   workflow_dispatch:   # 수동 실행 버튼 제공
@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,7 +26,7 @@ jobs:
         run: python download.py
 
       - name: Upload results
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
-          name: cyclone-data
-          path: downloads/
+          name: gdm-data-download
+          path: forecast_files/
