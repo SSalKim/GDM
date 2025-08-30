@@ -3,6 +3,9 @@ name: Download Cyclone Data
 on:
   workflow_dispatch:   # 수동 실행 가능
 
+permissions:
+  contents: write
+
 jobs:
   download:
     runs-on: ubuntu-latest
