@@ -4,10 +4,10 @@ from datetime import datetime, timedelta
 
 # 기본 설정
 BASE_DIR = "downloads"
-model = ["FNV3", "GENC"]   # 모델 이름
-hours = [18, 12, 6, 0]   # 하루 4회 자료
+models = ["FNV3", "GENC"]
+hours = [18, 12, 6, 0]
 
-# 시작/끝 날짜(interval)
+# 시작/끝 날짜
 start_date = datetime(2025, 6, 1)
 end_date   = datetime(2025, 9, 1)
 
@@ -19,23 +19,24 @@ while date <= end_date:
     save_dir = os.path.join(BASE_DIR, folder_name)
     os.makedirs(save_dir, exist_ok=True)
 
-    for hour in hours:
-        # 파일명 및 URL
-        filename = f"{model}_{date.year}_{date.month:02d}_{date.day:02d}T{hour:02d}_00_atcf_a_deck.txt"
-        save_path = os.path.join(save_dir, filename)
-        url = f"https://deepmind.google.com/science/weatherlab/download/cyclones/{model}/ensemble_mean/paired/atcf/{filename}"
+    for model in models:       
+        for hour in hours:     
+            # 파일명 및 URL
+            filename = f"{model}_{date.year}_{date.month:02d}_{date.day:02d}T{hour:02d}_00_atcf_a_deck.txt"
+            save_path = os.path.join(save_dir, filename)
+            url = f"https://deepmind.google.com/science/weatherlab/download/cyclones/{model}/ensemble_mean/paired/atcf/{filename}"
 
-        # 다운로드
-        try:
-            r = requests.get(url, timeout=30)
-            if r.status_code == 200:
-                with open(save_path, "wb") as f:
-                    f.write(r.content)
-                print(f"✅ Downloaded: {filename}")
-            else:
-                print(f"⚠️ {filename} not found (status {r.status_code})")
-        except Exception as e:
-            print(f"❌ Error downloading {filename}: {e}")
+            # 다운로드
+            try:
+                r = requests.get(url, timeout=30)
+                if r.status_code == 200:
+                    with open(save_path, "wb") as f:
+                        f.write(r.content)
+                    print(f"✅ Downloaded: {filename}")
+                else:
+                    print(f"⚠️ {filename} not found (status {r.status_code})")
+            except Exception as e:
+                print(f"❌ Error downloading {filename}: {e}")
 
     # 다음 날짜로 이동
     date += timedelta(days=1)
