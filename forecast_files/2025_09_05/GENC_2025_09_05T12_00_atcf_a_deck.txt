@@ -1,0 +1,30 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+EP, 11, 2025090512, 03, GENC,   0, 143N, 1365W,  54,  993, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+EP, 11, 2025090512, 03, GENC,   6, 146N, 1374W,  50,  996, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+EP, 11, 2025090512, 03, GENC,  12, 149N, 1383W,  46,  999, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+EP, 11, 2025090512, 03, GENC,  18, 152N, 1393W,  45,  999, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+EP, 11, 2025090512, 03, GENC,  24, 154N, 1404W,  45,  999, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+EP, 11, 2025090512, 03, GENC,  30, 158N, 1413W,  45,  999, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+EP, 11, 2025090512, 03, GENC,  36, 161N, 1423W,  46,  999, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+EP, 11, 2025090512, 03, GENC,  42, 165N, 1433W,  46,  999, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+EP, 11, 2025090512, 03, GENC,  48, 169N, 1443W,  46,  999, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+EP, 11, 2025090512, 03, GENC,  54, 173N, 1454W,  44, 1000, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+EP, 11, 2025090512, 03, GENC,  60, 177N, 1465W,  42, 1001, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+EP, 11, 2025090512, 03, GENC,  66, 182N, 1477W,  41, 1002, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+EP, 11, 2025090512, 03, GENC,  72, 187N, 1488W,  39, 1003, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+EP, 11, 2025090512, 03, GENC,  78, 191N, 1501W,  38, 1004, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+EP, 11, 2025090512, 03, GENC,  84, 196N, 1514W,  35, 1005, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 21, 2025090512, 03, GENC,   0, 355N, 1430E,  56,  992, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 21, 2025090512, 03, GENC,   6, 357N, 1465E,  63,  987, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 21, 2025090512, 03, GENC,  12, 358N, 1500E,  69,  982, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 21, 2025090512, 03, GENC,  18, 358N, 1531E,  69,  982, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 21, 2025090512, 03, GENC,  24, 358N, 1562E,  69,  983, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 21, 2025090512, 03, GENC,  30, 366N, 1588E,  67,  984, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 21, 2025090512, 03, GENC,  36, 373N, 1614E,  65,  985, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 21, 2025090512, 03, GENC,  42, 384N, 1635E,  62,  988, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 21, 2025090512, 03, GENC,  48, 395N, 1659E,  57,  991, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
