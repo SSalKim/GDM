@@ -1,0 +1,30 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+AL, 08, 2025093000, 03, GENC,   0, 295N,  685W,  89,  966, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 08, 2025093000, 03, GENC,   6, 309N,  692W,  78,  975, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 08, 2025093000, 03, GENC,  12, 323N,  699W,  67,  984, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 08, 2025093000, 03, GENC,  18, 330N,  702W,  68,  984, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 08, 2025093000, 03, GENC,  24, 338N,  704W,  68,  983, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 08, 2025093000, 03, GENC,  30, 324N,  702W,  73,  979, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 08, 2025093000, 03, GENC,  36, 310N,  700W,  78,  975, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 08, 2025093000, 03, GENC,  42, 325N,  673W,  79,  974, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 08, 2025093000, 03, GENC,  48, 339N,  645W,  80,  973, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 08, 2025093000, 03, GENC,  54, 351N,  609W,  75,  977, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 08, 2025093000, 03, GENC,  60, 362N,  571W,  70,  981, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 08, 2025093000, 03, GENC,  66, 378N,  536W,  69,  983, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 08, 2025093000, 03, GENC,  72, 394N,  499W,  67,  984, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 08, 2025093000, 03, GENC,  78, 402N,  487W,  64,  986, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 08, 2025093000, 03, GENC,  84, 411N,  471W,  59,  989, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 08, 2025093000, 03, GENC,  90, 420N,  468W,  59,  990, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 08, 2025093000, 03, GENC,  96, 429N,  461W,  57,  991, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 09, 2025093000, 03, GENC,   0, 280N,  770W,  62,  988, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 09, 2025093000, 03, GENC,   6, 284N,  769W,  65,  985, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 09, 2025093000, 03, GENC,  12, 288N,  768W,  69,  983, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 09, 2025093000, 03, GENC,  18, 292N,  755W,  72,  980, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 09, 2025093000, 03, GENC,  24, 297N,  741W,  74,  978, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 09, 2025093000, 03, GENC,  30, 302N,  722W,  77,  976, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 09, 2025093000, 03, GENC,  36, 309N,  702W,  79,  975, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
