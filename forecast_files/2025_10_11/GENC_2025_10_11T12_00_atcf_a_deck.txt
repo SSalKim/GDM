@@ -1,0 +1,20 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+EP, 17, 2025101112, 03, GENC,   0, 218N, 1092W,  36, 1004, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 29, 2025101112, 03, GENC,   0, 285N, 1315E,  43, 1000, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 29, 2025101112, 03, GENC,   6, 292N, 1326E,  47,  998, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 29, 2025101112, 03, GENC,  12, 299N, 1337E,  51,  995, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 29, 2025101112, 03, GENC,  18, 306N, 1350E,  55,  992, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 29, 2025101112, 03, GENC,  24, 312N, 1363E,  60,  989, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 29, 2025101112, 03, GENC,  30, 319N, 1383E,  61,  988, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 29, 2025101112, 03, GENC,  36, 326N, 1403E,  63,  987, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 29, 2025101112, 03, GENC,  42, 334N, 1427E,  64,  986, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 29, 2025101112, 03, GENC,  48, 341N, 1452E,  66,  985, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 29, 2025101112, 03, GENC,  54, 345N, 1479E,  64,  986, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 29, 2025101112, 03, GENC,  60, 348N, 1506E,  61,  988, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 29, 2025101112, 03, GENC,  66, 348N, 1533E,  52,  994, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 29, 2025101112, 03, GENC,  72, 347N, 1561E,  44, 1000, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
