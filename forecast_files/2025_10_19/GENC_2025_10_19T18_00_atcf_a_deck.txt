@@ -1,0 +1,33 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+IO, 04, 2025101918, 03, GENC,   0,  88S,  682E,  53,  994, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC,   6,  89S,  680E,  53,  994, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC,  12,  91S,  677E,  53,  994, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC,  18,  93S,  672E,  52,  995, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC,  24,  95S,  666E,  51,  995, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC,  30,  97S,  658E,  51,  995, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC,  36, 100S,  651E,  51,  996, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC,  42, 102S,  644E,  50,  996, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC,  48, 104S,  637E,  49,  997, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC,  54, 107S,  629E,  48,  997, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC,  60, 109S,  620E,  48,  997, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC,  66, 112S,  613E,  47,  998, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC,  72, 115S,  607E,  45,  999, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC,  78, 116S,  596E,  44, 1000, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC,  84, 118S,  585E,  43, 1000, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC,  90, 118S,  574E,  42, 1001, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC,  96, 118S,  564E,  40, 1002, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC, 102, 117S,  550E,  40, 1002, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC, 108, 116S,  536E,  39, 1003, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC, 114, 115S,  525E,  38, 1003, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC, 120, 114S,  514E,  37, 1004, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC, 126, 115S,  503E,  35, 1005, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC, 132, 115S,  491E,  33, 1006, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC, 138, 116S,  475E,  33, 1006, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC, 144, 117S,  461E,  32, 1007, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC, 150, 114S,  444E,  31, 1007, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 04, 2025101918, 03, GENC, 156, 115S,  429E,  29, 1008, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
