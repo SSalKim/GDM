@@ -1,0 +1,25 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+AL, 13, 2025102918, 03, GENC,   0, 222N,  755W,  78,  975, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC,   6, 235N,  747W,  80,  974, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC,  12, 247N,  739W,  82,  972, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC,  18, 268N,  723W,  82,  972, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC,  24, 288N,  707W,  82,  972, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC,  30, 316N,  682W,  81,  973, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC,  36, 343N,  656W,  80,  974, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC,  42, 377N,  627W,  83,  971, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC,  48, 408N,  597W,  86,  968, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC,  54, 447N,  559W,  90,  965, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC,  60, 478N,  525W,  92,  964, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC,  66, 502N,  503W,  96,  960, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC,  72, 526N,  479W,  99,  957, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC,  78, 535N,  453W, 101,  955, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC,  84, 543N,  426W, 103,  954, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC,  90, 547N,  390W, 101,  956, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC,  96, 549N,  355W,  98,  959, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC, 102, 560N,  315W,  97,  959, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+AL, 13, 2025102918, 03, GENC, 108, 568N,  276W,  94,  962, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
