@@ -1,0 +1,24 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+IO, 05, 2025113006, 03, GENC,   0, 112N,  810E,  36, 1004, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 05, 2025113006, 03, GENC,   6, 120N,  810E,  36, 1004, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 05, 2025113006, 03, GENC,  12, 127N,  811E,  36, 1004, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 05, 2025113006, 03, GENC,  18, 129N,  811E,  36, 1005, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 05, 2025113006, 03, GENC,  24, 132N,  812E,  36, 1005, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 05, 2025113006, 03, GENC,  30, 132N,  813E,  35, 1005, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 05, 2025113006, 03, GENC,  36, 132N,  815E,  34, 1006, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 05, 2025113006, 03, GENC,  42, 131N,  815E,  32, 1006, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 05, 2025113006, 03, GENC,  48, 130N,  815E,  31, 1007, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 05, 2025113006, 03, GENC,  54, 130N,  814E,  31, 1007, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 05, 2025113006, 03, GENC,  60, 129N,  813E,  30, 1008, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 33, 2025113006, 03, GENC,   0, 145N, 1122E,  45,  999, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 33, 2025113006, 03, GENC,   6, 146N, 1122E,  41, 1002, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 33, 2025113006, 03, GENC,  12, 148N, 1122E,  37, 1004, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 33, 2025113006, 03, GENC,  18, 148N, 1122E,  37, 1004, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 33, 2025113006, 03, GENC,  24, 148N, 1122E,  37, 1004, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 33, 2025113006, 03, GENC,  30, 147N, 1121E,  36, 1005, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 33, 2025113006, 03, GENC,  36, 147N, 1121E,  35, 1005, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
