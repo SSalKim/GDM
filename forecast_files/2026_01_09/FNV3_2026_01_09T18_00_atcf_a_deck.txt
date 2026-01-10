@@ -1,0 +1,24 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+IO, 90, 2026010918, 03, FNV3,   0,  84N,  821E,  29, 1008, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,  45,
+IO, 90, 2026010918, 03, FNV3,   6,  90N,  816E,  25, 1007, XX,  34, NEQ,    0,    0,    0,    0,     ,     ,  44,
+IO, 90, 2026010918, 03, FNV3,  12,  96N,  808E,  23, 1009, XX,  34, NEQ,    0,    0,    0,    0,     ,     ,  39,
+SH, 92, 2026010918, 03, FNV3,   0, 160S, 1483E,  35,  991, XX,  34, NEQ,  140,  180,  150,     ,     ,     , 100,
+SH, 92, 2026010918, 03, FNV3,   6, 163S, 1481E,  36,  994, XX,  34, NEQ,   37,   24,   19,   17,     ,     ,  54,
+SH, 92, 2026010918, 03, FNV3,  12, 172S, 1482E,  41,  992, XX,  34, NEQ,   87,   72,   58,   58,     ,     ,  60,
+SH, 92, 2026010918, 03, FNV3,  18, 183S, 1483E,  45,  990, XX,  34, NEQ,   95,   97,   79,   76,     ,     ,  52,
+SH, 92, 2026010918, 03, FNV3,  18, 183S, 1483E,  45,  990, XX,  50, NEQ,    7,    2,    3,    2,     ,     ,  52,
+SH, 92, 2026010918, 03, FNV3,  24, 190S, 1481E,  47,  989, XX,  34, NEQ,   92,   97,   79,   72,     ,     ,  44,
+SH, 92, 2026010918, 03, FNV3,  24, 190S, 1481E,  47,  989, XX,  50, NEQ,   10,   10,    6,    5,     ,     ,  44,
+SH, 92, 2026010918, 03, FNV3,  30, 199S, 1479E,  45,  990, XX,  34, NEQ,   61,   64,   51,   46,     ,     ,  30,
+SH, 92, 2026010918, 03, FNV3,  30, 199S, 1479E,  45,  990, XX,  50, NEQ,    4,    4,    3,    2,     ,     ,  30,
+SH, 92, 2026010918, 03, FNV3,  36, 205S, 1475E,  38,  992, XX,  34, NEQ,   37,   39,   31,   28,     ,     ,  31,
+SH, 92, 2026010918, 03, FNV3,  36, 205S, 1475E,  38,  992, XX,  50, NEQ,    2,    2,    1,    1,     ,     ,  31,
+SH, 92, 2026010918, 03, FNV3,  42, 207S, 1472E,  30,  997, XX,  34, NEQ,    7,    7,    4,    3,     ,     ,  30,
+SH, 92, 2026010918, 03, FNV3,  48, 207S, 1466E,  25,  998, XX,  34, NEQ,    2,    2,    2,    1,     ,     ,  41,
+SH, 92, 2026010918, 03, FNV3,  54, 207S, 1461E,  21, 1000, XX,  34, NEQ,    0,    0,    0,    0,     ,     ,  41,
+SH, 92, 2026010918, 03, FNV3,  60, 208S, 1458E,  21, 1001, XX,  34, NEQ,    0,    0,    1,    0,     ,     ,  32,
