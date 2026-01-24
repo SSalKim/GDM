@@ -1,0 +1,21 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+IO, 17, 2026012406, 03, GENC,   0, 170S, 1225E,  57,  991, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 17, 2026012406, 03, GENC,   6, 174S, 1230E,  59,  990, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 17, 2026012406, 03, GENC,  12, 178S, 1235E,  61,  988, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 17, 2026012406, 03, GENC,  18, 181S, 1236E,  60,  989, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 17, 2026012406, 03, GENC,  24, 183S, 1237E,  60,  989, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 17, 2026012406, 03, GENC,  30, 189S, 1238E,  59,  990, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 17, 2026012406, 03, GENC,  36, 194S, 1239E,  59,  990, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 17, 2026012406, 03, GENC,  42, 202S, 1239E,  57,  991, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 17, 2026012406, 03, GENC,  48, 211S, 1238E,  56,  992, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 17, 2026012406, 03, GENC,  54, 221S, 1242E,  57,  991, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 17, 2026012406, 03, GENC,  60, 230S, 1245E,  58,  991, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 17, 2026012406, 03, GENC,  66, 240S, 1249E,  55,  992, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 17, 2026012406, 03, GENC,  72, 250S, 1254E,  52,  994, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 17, 2026012406, 03, GENC,  78, 254S, 1257E,  49,  996, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 17, 2026012406, 03, GENC,  84, 259S, 1262E,  46,  999, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
