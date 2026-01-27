@@ -1,0 +1,17 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+SH, 90, 2026012706, 03, GENC,   0, 135S, 1678E,  45,  999, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 90, 2026012706, 03, GENC,   6, 139S, 1689E,  47,  998, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 90, 2026012706, 03, GENC,  12, 143S, 1701E,  49,  997, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 90, 2026012706, 03, GENC,  18, 156S, 1713E,  50,  996, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 90, 2026012706, 03, GENC,  24, 169S, 1726E,  51,  995, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 90, 2026012706, 03, GENC,  30, 188S, 1732E,  53,  994, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 90, 2026012706, 03, GENC,  36, 208S, 1738E,  54,  993, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 90, 2026012706, 03, GENC,  42, 225S, 1734E,  53,  994, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 90, 2026012706, 03, GENC,  48, 242S, 1729E,  52,  995, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 90, 2026012706, 03, GENC,  54, 250S, 1724E,  48,  997, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 90, 2026012706, 03, GENC,  60, 259S, 1718E,  44,  999, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
