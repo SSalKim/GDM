@@ -1,0 +1,17 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+IO, 19, 2026020206, 03, GENC,   0, 212S,  530E,  47,  998, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 19, 2026020206, 03, GENC,   6, 218S,  531E,  49,  997, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 19, 2026020206, 03, GENC,  12, 224S,  533E,  50,  996, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 19, 2026020206, 03, GENC,  18, 227S,  538E,  51,  995, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 19, 2026020206, 03, GENC,  24, 231S,  543E,  52,  995, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 19, 2026020206, 03, GENC,  30, 232S,  548E,  49,  996, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 19, 2026020206, 03, GENC,  36, 234S,  552E,  47,  998, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 19, 2026020206, 03, GENC,  42, 237S,  556E,  46,  998, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 19, 2026020206, 03, GENC,  48, 239S,  559E,  45,  999, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 19, 2026020206, 03, GENC,  54, 244S,  567E,  44, 1000, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 19, 2026020206, 03, GENC,  60, 247S,  571E,  42, 1001, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
