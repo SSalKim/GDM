@@ -1,0 +1,22 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+IO, 21, 2026021700, 03, FNV3,   0, 264S,  441E,  54,  987, XX,  34, NEQ,  100,  140,  120,   60,     ,     ,  30,
+IO, 21, 2026021700, 03, FNV3,   6, 286S,  438E,  44,  992, XX,  34, NEQ,   93,  103,   81,   73,     ,     ,  50,
+IO, 21, 2026021700, 03, FNV3,   6, 286S,  438E,  44,  992, XX,  50, NEQ,    5,    4,    3,    2,     ,     ,  50,
+IO, 21, 2026021700, 03, FNV3,  12, 303S,  427E,  48,  989, XX,  34, NEQ,  112,  127,  103,   87,     ,     ,  52,
+IO, 21, 2026021700, 03, FNV3,  12, 303S,  427E,  48,  989, XX,  50, NEQ,    7,   10,    6,    2,     ,     ,  52,
+IO, 21, 2026021700, 03, FNV3,  18, 317S,  420E,  49,  988, XX,  34, NEQ,  114,  129,  103,   90,     ,     ,  55,
+IO, 21, 2026021700, 03, FNV3,  18, 317S,  420E,  49,  988, XX,  50, NEQ,    8,   15,    4,    2,     ,     ,  55,
+IO, 21, 2026021700, 03, FNV3,  24, 331S,  414E,  47,  989, XX,  34, NEQ,   79,  100,   70,   61,     ,     ,  51,
+IO, 21, 2026021700, 03, FNV3,  24, 331S,  414E,  47,  989, XX,  50, NEQ,   10,   11,    4,    3,     ,     ,  51,
+IO, 21, 2026021700, 03, FNV3,  30, 345S,  412E,  41,  992, XX,  34, NEQ,   39,   64,   33,   28,     ,     ,  52,
+IO, 21, 2026021700, 03, FNV3,  30, 345S,  412E,  41,  992, XX,  50, NEQ,    1,    0,    0,    0,     ,     ,  52,
+IO, 21, 2026021700, 03, FNV3,  36, 358S,  414E,  39,  993, XX,  34, NEQ,   36,   46,   24,   21,     ,     ,  51,
+IO, 21, 2026021700, 03, FNV3,  36, 358S,  414E,  39,  993, XX,  50, NEQ,    0,    1,    0,    0,     ,     ,  51,
+IO, 21, 2026021700, 03, FNV3,  42, 371S,  418E,  38,  993, XX,  34, NEQ,   55,   57,   37,   36,     ,     ,  60,
+IO, 21, 2026021700, 03, FNV3,  48, 383S,  426E,  36,  993, XX,  34, NEQ,   27,   21,   12,   10,     ,     ,  57,
+IO, 21, 2026021700, 03, FNV3,  54, 395S,  438E,  38,  990, XX,  34, NEQ,   32,   16,    6,    2,     ,     ,  55,
