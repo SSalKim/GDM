@@ -1,0 +1,25 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+IO, 22, 2026022506, 03, FNV3,   0, 278S,  663E,  70,  981, XX,  34, NEQ,  105,  100,   95,   80,     ,     ,  25,
+IO, 22, 2026022506, 03, FNV3,   6, 294S,  670E,  60,  986, XX,  34, NEQ,  108,  115,   97,   85,     ,     ,  23,
+IO, 22, 2026022506, 03, FNV3,   6, 294S,  670E,  60,  986, XX,  50, NEQ,   40,   40,   30,   30,     ,     ,  23,
+IO, 22, 2026022506, 03, FNV3,   6, 294S,  670E,  60,  986, XX,  64, NEQ,    8,    5,    5,    4,     ,     ,  23,
+IO, 22, 2026022506, 03, FNV3,  12, 307S,  678E,  51,  992, XX,  34, NEQ,   99,  102,   82,   79,     ,     ,  32,
+IO, 22, 2026022506, 03, FNV3,  12, 307S,  678E,  51,  992, XX,  50, NEQ,   18,   17,   10,   11,     ,     ,  32,
+IO, 22, 2026022506, 03, FNV3,  18, 315S,  686E,  45,  996, XX,  34, NEQ,   76,   74,   63,   59,     ,     ,  35,
+IO, 22, 2026022506, 03, FNV3,  18, 315S,  686E,  45,  996, XX,  50, NEQ,    4,    3,    2,    3,     ,     ,  35,
+IO, 22, 2026022506, 03, FNV3,  24, 319S,  695E,  40,  998, XX,  34, NEQ,   39,   32,   32,   29,     ,     ,  40,
+IO, 22, 2026022506, 03, FNV3,  24, 319S,  695E,  40,  998, XX,  50, NEQ,    1,    0,    0,    0,     ,     ,  40,
+IO, 22, 2026022506, 03, FNV3,  30, 320S,  699E,  39,  998, XX,  34, NEQ,   35,   20,   17,   19,     ,     ,  41,
+IO, 22, 2026022506, 03, FNV3,  30, 320S,  699E,  39,  998, XX,  50, NEQ,    1,    0,    0,    0,     ,     ,  41,
+IO, 22, 2026022506, 03, FNV3,  36, 320S,  697E,  36, 1000, XX,  34, NEQ,   14,    7,    7,    6,     ,     ,  42,
+IO, 22, 2026022506, 03, FNV3,  42, 325S,  693E,  35, 1001, XX,  34, NEQ,   15,   14,    6,    4,     ,     ,  49,
+IO, 22, 2026022506, 03, FNV3,  48, 333S,  686E,  32, 1002, XX,  34, NEQ,    5,    1,    5,    0,     ,     ,  52,
+IO, 22, 2026022506, 03, FNV3,  54, 342S,  681E,  31, 1002, XX,  34, NEQ,    7,    1,    2,    0,     ,     ,  54,
+IO, 22, 2026022506, 03, FNV3,  60, 353S,  683E,  30, 1003, XX,  34, NEQ,    2,    2,    0,    2,     ,     ,  55,
+IO, 22, 2026022506, 03, FNV3,  66, 360S,  692E,  30, 1003, XX,  34, NEQ,    5,    2,    0,    0,     ,     ,  52,
+IO, 22, 2026022506, 03, FNV3,  72, 368S,  704E,  32, 1003, XX,  34, NEQ,    9,    0,    0,    6,     ,     ,  45,
