@@ -1,0 +1,21 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+SH, 23, 2026022618, 03, GENC,   0, 182S, 1680E,  52,  995, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 23, 2026022618, 03, GENC,   6, 186S, 1681E,  54,  993, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 23, 2026022618, 03, GENC,  12, 189S, 1681E,  56,  992, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 23, 2026022618, 03, GENC,  18, 190S, 1688E,  57,  991, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 23, 2026022618, 03, GENC,  24, 191S, 1694E,  58,  990, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 23, 2026022618, 03, GENC,  30, 195S, 1705E,  60,  989, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 23, 2026022618, 03, GENC,  36, 200S, 1716E,  61,  988, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 23, 2026022618, 03, GENC,  42, 207S, 1731E,  64,  986, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 23, 2026022618, 03, GENC,  48, 214S, 1746E,  68,  983, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 23, 2026022618, 03, GENC,  54, 230S, 1767E,  71,  981, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 23, 2026022618, 03, GENC,  60, 246S, 1788E,  74,  978, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 23, 2026022618, 03, GENC,  66, 267S, 1787W,  73,  979, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 23, 2026022618, 03, GENC,  72, 288S, 1761W,  73,  980, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 23, 2026022618, 03, GENC,  78, 323S, 1723W,  72,  980, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 23, 2026022618, 03, GENC,  84, 357S, 1682W,  70,  982, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
