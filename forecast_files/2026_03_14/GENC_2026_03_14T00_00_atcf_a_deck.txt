@@ -1,0 +1,19 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+IO, 94, 2026031400, 03, GENC,   0, 105S,  580E,  38, 1003, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 94, 2026031400, 03, GENC,   6, 113S,  585E,  39, 1003, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 94, 2026031400, 03, GENC,  12, 121S,  590E,  40, 1002, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 94, 2026031400, 03, GENC,  18, 128S,  596E,  39, 1003, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 94, 2026031400, 03, GENC,  24, 135S,  602E,  38, 1003, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 94, 2026031400, 03, GENC,  30, 145S,  605E,  38, 1003, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 94, 2026031400, 03, GENC,  36, 155S,  608E,  37, 1004, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 94, 2026031400, 03, GENC,  42, 167S,  608E,  37, 1004, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 94, 2026031400, 03, GENC,  48, 178S,  609E,  37, 1004, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 94, 2026031400, 03, GENC,  54, 189S,  604E,  39, 1003, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 94, 2026031400, 03, GENC,  60, 201S,  599E,  40, 1002, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 94, 2026031400, 03, GENC,  66, 211S,  595E,  41, 1001, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 94, 2026031400, 03, GENC,  72, 223S,  591E,  43, 1000, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
