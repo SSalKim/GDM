@@ -1,0 +1,23 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+SH, 27, 2026032618, 03, GENC,   0, 210S, 1140E, 106,  951, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 27, 2026032618, 03, GENC,   6, 225S, 1137E,  97,  959, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 27, 2026032618, 03, GENC,  12, 240S, 1135E,  87,  968, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 27, 2026032618, 03, GENC,  18, 257S, 1142E,  73,  979, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 27, 2026032618, 03, GENC,  24, 275S, 1149E,  59,  990, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 27, 2026032618, 03, GENC,  30, 299S, 1167E,  55,  992, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 27, 2026032618, 03, GENC,  36, 324S, 1187E,  52,  995, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 27, 2026032618, 03, GENC,  42, 350S, 1204E,  52,  994, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 27, 2026032618, 03, GENC,  48, 376S, 1223E,  53,  994, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 27, 2026032618, 03, GENC,  54, 389S, 1230E,  56,  992, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 27, 2026032618, 03, GENC,  60, 402S, 1238E,  59,  990, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 27, 2026032618, 03, GENC,  66, 412S, 1247E,  61,  988, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 27, 2026032618, 03, GENC,  72, 423S, 1256E,  63,  987, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 27, 2026032618, 03, GENC,  78, 434S, 1271E,  65,  986, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 27, 2026032618, 03, GENC,  84, 445S, 1287E,  65,  985, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 27, 2026032618, 03, GENC,  90, 461S, 1307E,  64,  986, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+SH, 27, 2026032618, 03, GENC,  96, 478S, 1329E,  61,  988, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
