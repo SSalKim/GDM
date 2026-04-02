@@ -1,0 +1,25 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+IO, 29, 2026040200, 03, GENC,   0, 115S,  732E,  42, 1001, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC,   6, 118S,  730E,  43, 1001, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC,  12, 121S,  728E,  44, 1000, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC,  18, 129S,  727E,  45,  999, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC,  24, 136S,  725E,  47,  998, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC,  30, 148S,  719E,  49,  997, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC,  36, 160S,  713E,  51,  995, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC,  42, 172S,  706E,  54,  993, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC,  48, 184S,  699E,  58,  991, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC,  54, 200S,  696E,  59,  989, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC,  60, 215S,  693E,  61,  988, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC,  66, 233S,  695E,  61,  988, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC,  72, 252S,  696E,  62,  988, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC,  78, 270S,  701E,  57,  991, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC,  84, 287S,  706E,  53,  994, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC,  90, 302S,  713E,  47,  998, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC,  96, 317S,  719E,  40, 1002, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC, 102, 328S,  721E,  39, 1003, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+IO, 29, 2026040200, 03, GENC, 108, 342S,  726E,  34, 1006, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
