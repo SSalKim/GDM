@@ -1,0 +1,23 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+WP, 04, 2026041618, 03, GENC,   0, 190N, 1450E, 113,  945, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041618, 03, GENC,   6, 195N, 1453E, 107,  950, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041618, 03, GENC,  12, 200N, 1456E, 102,  955, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041618, 03, GENC,  18, 206N, 1459E,  95,  961, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041618, 03, GENC,  24, 213N, 1461E,  88,  967, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041618, 03, GENC,  30, 221N, 1463E,  84,  971, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041618, 03, GENC,  36, 229N, 1465E,  80,  974, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041618, 03, GENC,  42, 239N, 1473E,  77,  976, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041618, 03, GENC,  48, 250N, 1481E,  74,  979, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041618, 03, GENC,  54, 259N, 1495E,  71,  981, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041618, 03, GENC,  60, 268N, 1509E,  69,  983, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041618, 03, GENC,  66, 274N, 1528E,  66,  985, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041618, 03, GENC,  72, 280N, 1547E,  63,  987, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041618, 03, GENC,  78, 283N, 1572E,  60,  989, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041618, 03, GENC,  84, 287N, 1597E,  56,  992, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041618, 03, GENC,  90, 290N, 1626E,  54,  993, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041618, 03, GENC,  96, 292N, 1656E,  51,  995, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
