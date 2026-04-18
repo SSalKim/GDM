@@ -1,0 +1,19 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+WP, 04, 2026041800, 03, GENC,   0, 223N, 1465E,  89,  966, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041800, 03, GENC,   6, 233N, 1470E,  82,  972, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041800, 03, GENC,  12, 243N, 1475E,  76,  977, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041800, 03, GENC,  18, 254N, 1485E,  73,  979, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041800, 03, GENC,  24, 264N, 1496E,  70,  982, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041800, 03, GENC,  30, 273N, 1516E,  68,  983, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041800, 03, GENC,  36, 281N, 1537E,  65,  985, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041800, 03, GENC,  42, 286N, 1561E,  62,  988, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041800, 03, GENC,  48, 291N, 1585E,  59,  990, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041800, 03, GENC,  54, 294N, 1616E,  55,  992, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041800, 03, GENC,  60, 297N, 1646E,  51,  995, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041800, 03, GENC,  66, 299N, 1678E,  50,  996, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 04, 2026041800, 03, GENC,  72, 301N, 1710E,  47,  998, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
