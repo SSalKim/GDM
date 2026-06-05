@@ -1,0 +1,24 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+EP, 01, 2026060512, 03, FNV3,   0, 133N, 1334W,  41, 1004, XX,  34, NEQ,   30,   20,   30,   40,     ,     ,  15,
+EP, 01, 2026060512, 03, FNV3,   6, 131N, 1337W,  39, 1006, XX,  34, NEQ,   20,   12,    9,   19,     ,     ,  17,
+EP, 01, 2026060512, 03, FNV3,  12, 130N, 1340W,  38, 1005, XX,  34, NEQ,   28,   18,   15,   23,     ,     ,  23,
+EP, 01, 2026060512, 03, FNV3,  18, 128N, 1343W,  37, 1005, XX,  34, NEQ,   22,   15,   12,   18,     ,     ,  25,
+EP, 01, 2026060512, 03, FNV3,  24, 128N, 1346W,  38, 1005, XX,  34, NEQ,   22,   16,   12,   21,     ,     ,  26,
+EP, 01, 2026060512, 03, FNV3,  30, 125N, 1347W,  33, 1006, XX,  34, NEQ,    9,    5,    5,   10,     ,     ,  29,
+EP, 01, 2026060512, 03, FNV3,  36, 123N, 1349W,  31, 1006, XX,  34, NEQ,    5,    4,    2,    3,     ,     ,  29,
+EP, 01, 2026060512, 03, FNV3,  42, 120N, 1349W,  31, 1006, XX,  34, NEQ,    5,    3,    2,    4,     ,     ,  26,
+EP, 01, 2026060512, 03, FNV3,  48, 118N, 1351W,  31, 1006, XX,  34, NEQ,   10,    6,    5,    6,     ,     ,  31,
+EP, 01, 2026060512, 03, FNV3,  54, 116N, 1353W,  29, 1007, XX,  34, NEQ,    3,    3,    2,    5,     ,     ,  33,
+EP, 01, 2026060512, 03, FNV3,  60, 114N, 1355W,  28, 1007, XX,  34, NEQ,    2,    0,    0,    1,     ,     ,  32,
+EP, 01, 2026060512, 03, FNV3,  66, 113N, 1357W,  27, 1008, XX,  34, NEQ,    2,    0,    0,    0,     ,     ,  40,
+EP, 01, 2026060512, 03, FNV3,  72, 112N, 1362W,  27, 1008, XX,  34, NEQ,    2,    1,    1,    1,     ,     ,  39,
+EP, 01, 2026060512, 03, FNV3,  78, 111N, 1366W,  27, 1007, XX,  34, NEQ,    0,    0,    0,    1,     ,     ,  40,
+EP, 01, 2026060512, 03, FNV3,  84, 111N, 1374W,  28, 1007, XX,  34, NEQ,    4,    3,    3,    3,     ,     ,  38,
+EP, 01, 2026060512, 03, FNV3,  90, 108N, 1382W,  28, 1007, XX,  34, NEQ,    2,    0,    0,    1,     ,     ,  33,
+EP, 01, 2026060512, 03, FNV3,  96, 107N, 1388W,  27, 1008, XX,  34, NEQ,    0,    0,    0,    0,     ,     ,  43,
+EP, 91, 2026060512, 03, FNV3,   0, 139N, 1041W,  19, 1009, XX,  34, NEQ,    0,    0,    0,    0,     ,     , 120,
