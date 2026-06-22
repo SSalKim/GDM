@@ -4,6 +4,7 @@
 # Any data that relates to a time more than 48 hours ago is licensed under the
 # Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
 # BEGIN DATA
+EP, 94, 2026062212, 03, FNV3,   0, 128N, 1055W,  16, 1008, XX,  34, NEQ,    0,    0,    0,    0,     ,     ,  90,
 WP, 07, 2026062212, 03, FNV3,   0, 181N, 1261E, 124,  937, XX,  34, NEQ,   95,   95,  105,  120,     ,     ,  12,
 WP, 07, 2026062212, 03, FNV3,   6, 184N, 1257E, 104,  952, XX,  34, NEQ,  111,   99,   91,  100,     ,     ,   8,
 WP, 07, 2026062212, 03, FNV3,   6, 184N, 1257E, 104,  952, XX,  50, NEQ,   51,   45,   37,   45,     ,     ,   8,
