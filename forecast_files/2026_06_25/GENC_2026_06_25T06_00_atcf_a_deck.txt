@@ -1,0 +1,22 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+WP, 07, 2026062506, 03, GENC,   0, 245N, 1257E,  59,  990, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 07, 2026062506, 03, GENC,   6, 254N, 1262E,  59,  990, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 07, 2026062506, 03, GENC,  12, 264N, 1267E,  58,  991, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 07, 2026062506, 03, GENC,  18, 271N, 1274E,  57,  991, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 07, 2026062506, 03, GENC,  24, 279N, 1280E,  56,  992, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 07, 2026062506, 03, GENC,  30, 288N, 1298E,  56,  992, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 07, 2026062506, 03, GENC,  36, 297N, 1316E,  56,  992, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 07, 2026062506, 03, GENC,  42, 316N, 1345E,  55,  992, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 07, 2026062506, 03, GENC,  48, 333N, 1374E,  54,  993, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 07, 2026062506, 03, GENC,  54, 351N, 1416E,  53,  994, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 07, 2026062506, 03, GENC,  60, 368N, 1460E,  52,  994, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 08, 2026062506, 03, GENC,   0, 190N, 1355E,  42, 1001, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 08, 2026062506, 03, GENC,   6, 214N, 1331E,  44, 1000, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 08, 2026062506, 03, GENC,  12, 238N, 1307E,  46,  998, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 08, 2026062506, 03, GENC,  18, 246N, 1314E,  46,  998, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
+WP, 08, 2026062506, 03, GENC,  24, 278N, 1283E,  56,  992, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
