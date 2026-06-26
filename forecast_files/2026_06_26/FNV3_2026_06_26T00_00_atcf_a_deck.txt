@@ -1,0 +1,21 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+WP, 07, 2026062600, 03, FNV3,   0, 275N, 1270E,  35,  993, XX,  34, NEQ,  120,  115,   80,   80,     ,     ,  30,
+WP, 07, 2026062600, 03, FNV3,   6, 280N, 1280E,  34,  992, XX,  34, NEQ,   22,   22,   14,   14,     ,     ,  53,
+WP, 07, 2026062600, 03, FNV3,  12, 288N, 1293E,  34,  993, XX,  34, NEQ,   20,   24,   10,   12,     ,     ,  57,
+WP, 07, 2026062600, 03, FNV3,  18, 301N, 1310E,  33,  994, XX,  34, NEQ,   21,   21,   11,   12,     ,     ,  51,
+WP, 07, 2026062600, 03, FNV3,  24, 315N, 1334E,  35,  993, XX,  34, NEQ,   33,   33,   20,   19,     ,     ,  52,
+WP, 07, 2026062600, 03, FNV3,  30, 330N, 1365E,  33,  994, XX,  34, NEQ,   27,   29,   21,   19,     ,     ,  55,
+WP, 07, 2026062600, 03, FNV3,  36, 349N, 1409E,  33,  996, XX,  34, NEQ,    8,    8,    9,    3,     ,     ,  47,
+WP, 07, 2026062600, 03, FNV3,  42, 365N, 1459E,  30,  996, XX,  34, NEQ,    1,    5,    7,    4,     ,     ,  50,
+WP, 07, 2026062600, 03, FNV3,  48, 377N, 1510E,  31,  997, XX,  34, NEQ,    3,    4,    5,    0,     ,     ,  54,
+WP, 08, 2026062600, 03, FNV3,   0, 250N, 1336E,  54,  989, XX,  34, NEQ,   45,   50,   30,   30,     ,     ,  25,
+WP, 08, 2026062600, 03, FNV3,   6, 279N, 1342E,  44,  993, XX,  34, NEQ,   38,   42,   26,   25,     ,     ,  21,
+WP, 08, 2026062600, 03, FNV3,   6, 279N, 1342E,  44,  993, XX,  50, NEQ,    2,    4,    2,    2,     ,     ,  21,
+WP, 08, 2026062600, 03, FNV3,  12, 312N, 1353E,  39,  994, XX,  34, NEQ,   19,   27,   17,   11,     ,     ,  37,
+WP, 08, 2026062600, 03, FNV3,  12, 312N, 1353E,  39,  994, XX,  50, NEQ,    0,    1,    0,    0,     ,     ,  37,
+WP, 08, 2026062600, 03, FNV3,  18, 336N, 1377E,  34,  997, XX,  34, NEQ,   10,    6,   10,    5,     ,     ,  42,
