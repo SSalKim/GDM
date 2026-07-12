@@ -1,0 +1,18 @@
+# If this file contains data that relates to a time no more than 48 hours ago,
+# BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
+#   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
+# Any data that relates to a time more than 48 hours ago is licensed under the
+# Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
+# BEGIN DATA
+WP, 09, 2026071212, 03, FNV3,   0, 320N, 1181E,  29,  989, XX,  34, NEQ,    0,    0,    0,    0,     ,     ,  60,
+WP, 09, 2026071212, 03, FNV3,   6, 327N, 1178E,  31,  988, XX,  34, NEQ,   10,    9,    5,    5,     ,     ,  34,
+WP, 09, 2026071212, 03, FNV3,  12, 336N, 1178E,  28,  989, XX,  34, NEQ,    3,    3,    4,    2,     ,     ,  40,
+WP, 09, 2026071212, 03, FNV3,  18, 341N, 1180E,  27,  991, XX,  34, NEQ,    0,    0,    0,    0,     ,     ,  42,
+WP, 09, 2026071212, 03, FNV3,  24, 348N, 1186E,  26,  991, XX,  34, NEQ,    1,    0,    1,    0,     ,     ,  45,
+WP, 09, 2026071212, 03, FNV3,  30, 355N, 1194E,  27,  993, XX,  34, NEQ,    0,    3,    0,    0,     ,     ,  42,
+WP, 09, 2026071212, 03, FNV3,  36, 364N, 1208E,  27,  992, XX,  34, NEQ,    0,    1,    0,    0,     ,     ,  49,
+WP, 09, 2026071212, 03, FNV3,  42, 374N, 1226E,  27,  992, XX,  34, NEQ,    2,    2,    2,    2,     ,     ,  53,
+WP, 09, 2026071212, 03, FNV3,  48, 385N, 1248E,  26,  993, XX,  34, NEQ,    0,    0,    0,    0,     ,     ,  52,
+WP, 09, 2026071212, 03, FNV3,  54, 392N, 1281E,  26,  994, XX,  34, NEQ,    0,    1,    0,    0,     ,     ,  48,
+WP, 09, 2026071212, 03, FNV3,  60, 403N, 1318E,  26,  992, XX,  34, NEQ,    0,    0,    0,    0,     ,     ,  62,
+WP, 09, 2026071212, 03, FNV3,  66, 412N, 1350E,  25,  992, XX,  34, NEQ,    0,    0,    0,    0,     ,     ,  83,
