@@ -4,6 +4,8 @@
 # Any data that relates to a time more than 48 hours ago is licensed under the
 # Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
 # BEGIN DATA
+AL, 05, 2026090300, 03, FNV3,   0, 320N,  955W,  19, 1011, XX,  34, NEQ,    0,    0,    0,    0,     ,     ,  30,
+AL, 05, 2026090300, 03, FNV3,   6, 322N,  960W,  21, 1010, XX,  34, NEQ,    0,    0,    0,    0,     ,     ,  41,
 EP, 11, 2026090300, 03, FNV3,   0, 192N, 1342W, 115,  947, XX,  34, NEQ,  100,   80,  100,  110,     ,     ,  15,
 EP, 11, 2026090300, 03, FNV3,   0, 192N, 1342W, 115,  947, XX,  50, NEQ,   60,   50,   50,   60,     ,     ,  15,
 EP, 11, 2026090300, 03, FNV3,   0, 192N, 1342W, 115,  947, XX,  64, NEQ,   30,   30,   30,   30,     ,     ,  15,
