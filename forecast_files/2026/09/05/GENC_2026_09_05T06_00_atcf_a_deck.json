@@ -1,0 +1,17 @@
+{
+  "cycle_utc": "2026090506",
+  "display_name": "GenCast",
+  "max_lead_hour": 228,
+  "model": "GENC",
+  "path": "forecast_files/2026/09/05/GENC_2026_09_05T06_00_atcf_a_deck.txt",
+  "row_count": 88,
+  "sha256": "2e743af9c2b86386798b64ae4029a124f261dd01ff505a50e3204642aff64a94",
+  "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/GENC/ensemble_mean/paired/atcf/GENC_2026_09_05T06_00_atcf_a_deck.txt",
+  "storms": [
+    "EP11",
+    "EP12",
+    "EP13",
+    "WP22"
+  ],
+  "upstream_model": "GENC"
+}
