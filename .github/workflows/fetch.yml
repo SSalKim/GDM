@@ -3,33 +3,9 @@ name: Fetch Typhoon Data
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   fetch:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository with PAT
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.MY_GITHUB_PAT }}
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.10"
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Fetch typhoon data
-        run: |
-          mkdir -p forecast_files
-          python fetch.py
-
-      - name: Commit & push updates
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add forecast_files/
-          git commit -m "Update typhoon data [$(date +'%Y-%m-%d %H:%M:%S')]" || echo "No changes to commit"
-          git push
+    uses: ./.github/workflows/collect.yml
