@@ -16,29 +16,28 @@
     "upstream_model": "FNV3P2"
   },
   "GENC": {
-    "cycle_utc": "2026090900",
+    "cycle_utc": "2026090906",
     "display_name": "GenCast",
-    "max_lead_hour": 120,
+    "max_lead_hour": 108,
     "model": "GENC",
-    "path": "forecast_files/2026/09/09/GENC_2026_09_09T00_00_atcf_a_deck.txt",
-    "row_count": 22,
-    "sha256": "51f546350694fc632302a008c5a7b9065b5acd2765c1cb1a3f04e38aeeb79b4f",
-    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/GENC/ensemble_mean/paired/atcf/GENC_2026_09_09T00_00_atcf_a_deck.txt",
+    "path": "forecast_files/2026/09/09/GENC_2026_09_09T06_00_atcf_a_deck.txt",
+    "row_count": 19,
+    "sha256": "e1cb3ffddf1697bcc8f9c334d859564486e74ad970ef2b4c6a8568a68e2ca80f",
+    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/GENC/ensemble_mean/paired/atcf/GENC_2026_09_09T06_00_atcf_a_deck.txt",
     "storms": [
-      "EP12",
-      "WP22"
+      "EP12"
     ],
     "upstream_model": "GENC"
   },
   "WNV3": {
-    "cycle_utc": "2026090900",
+    "cycle_utc": "2026090906",
     "display_name": "WeatherNext3 Cyclones",
-    "max_lead_hour": 96,
+    "max_lead_hour": 222,
     "model": "WNV3",
-    "path": "forecast_files/2026/09/09/WNV3_2026_09_09T00_00_atcf_a_deck.txt",
-    "row_count": 33,
-    "sha256": "232dcccb615da205fec31025dd287e0e61f2ac601f351e3f06a8f7a74da9058b",
-    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/WNV3/ensemble_mean/paired/atcf/WNV3_2026_09_09T00_00_atcf_a_deck.txt",
+    "path": "forecast_files/2026/09/09/WNV3_2026_09_09T06_00_atcf_a_deck.txt",
+    "row_count": 128,
+    "sha256": "a1bb16f2564a6dfae5cc3d0c5dc4da7861ffa11ae59135cf952a5c4184b1ee92",
+    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/WNV3/ensemble_mean/paired/atcf/WNV3_2026_09_09T06_00_atcf_a_deck.txt",
     "storms": [
       "EP12",
       "EP96",
