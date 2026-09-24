@@ -38,21 +38,20 @@
     "upstream_model": "GENC"
   },
   "WNV3": {
-    "cycle_utc": "2026092400",
+    "cycle_utc": "2026092406",
     "display_name": "WeatherNext3 Cyclones",
-    "max_lead_hour": 276,
+    "max_lead_hour": 306,
     "model": "WNV3",
-    "path": "forecast_files/2026/09/24/WNV3_2026_09_24T00_00_atcf_a_deck.txt",
-    "row_count": 401,
-    "sha256": "ed79afc047b61ed74db222b36fe3152f197752bb7c85302d480970cb84d1c8a5",
-    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/WNV3/ensemble_mean/paired/atcf/WNV3_2026_09_24T00_00_atcf_a_deck.txt",
+    "path": "forecast_files/2026/09/24/WNV3_2026_09_24T06_00_atcf_a_deck.txt",
+    "row_count": 410,
+    "sha256": "275813cf4fa4d9ed98f44d41b42779121ac3699726fd986a122a9676287e3baf",
+    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/WNV3/ensemble_mean/paired/atcf/WNV3_2026_09_24T06_00_atcf_a_deck.txt",
     "storms": [
       "AL06",
       "AL90",
       "EP15",
       "EP16",
       "EP17",
-      "IO01",
       "WP25"
     ],
     "upstream_model": "WNV3"
