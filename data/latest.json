@@ -1,13 +1,13 @@
 {
   "FNV3": {
-    "cycle_utc": "2026092600",
+    "cycle_utc": "2026092606",
     "display_name": "WeatherNext2 Cyclones",
-    "max_lead_hour": 324,
+    "max_lead_hour": 300,
     "model": "FNV3",
-    "path": "forecast_files/2026/09/26/FNV3_2026_09_26T00_00_atcf_a_deck.txt",
-    "row_count": 318,
-    "sha256": "95cd57e7a947419d6e192b07f3c995e00590bbcdc516f3a4b753dea6f9b02e09",
-    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/FNV3P2/ensemble_mean/paired/atcf/FNV3P2_2026_09_26T00_00_atcf_a_deck.txt",
+    "path": "forecast_files/2026/09/26/FNV3_2026_09_26T06_00_atcf_a_deck.txt",
+    "row_count": 295,
+    "sha256": "ff109b28da520d77335dd2e0c3063288da87cfec15df238916bf5881bda6c6e7",
+    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/FNV3P2/ensemble_mean/paired/atcf/FNV3P2_2026_09_26T06_00_atcf_a_deck.txt",
     "storms": [
       "AL06",
       "AL07",
