@@ -20,17 +20,16 @@
     "upstream_model": "FNV3P2"
   },
   "GENC": {
-    "cycle_utc": "2026092518",
+    "cycle_utc": "2026092600",
     "display_name": "GenCast",
-    "max_lead_hour": 348,
+    "max_lead_hour": 336,
     "model": "GENC",
-    "path": "forecast_files/2026/09/25/GENC_2026_09_25T18_00_atcf_a_deck.txt",
-    "row_count": 122,
-    "sha256": "2f0710f4f0eb40d7cc28d61e0ab2046468195f1644e707e8878984ec36e4b18f",
-    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/GENC/ensemble_mean/paired/atcf/GENC_2026_09_25T18_00_atcf_a_deck.txt",
+    "path": "forecast_files/2026/09/26/GENC_2026_09_26T00_00_atcf_a_deck.txt",
+    "row_count": 131,
+    "sha256": "01f954380f52776d32997857744176b7d9a38153f986ff26179ba61169df4409",
+    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/GENC/ensemble_mean/paired/atcf/GENC_2026_09_26T00_00_atcf_a_deck.txt",
     "storms": [
       "AL06",
-      "AL07",
       "EP15",
       "EP16",
       "EP17",
@@ -39,20 +38,21 @@
     "upstream_model": "GENC"
   },
   "WNV3": {
-    "cycle_utc": "2026092518",
+    "cycle_utc": "2026092600",
     "display_name": "WeatherNext3 Cyclones",
-    "max_lead_hour": 342,
+    "max_lead_hour": 324,
     "model": "WNV3",
-    "path": "forecast_files/2026/09/25/WNV3_2026_09_25T18_00_atcf_a_deck.txt",
-    "row_count": 340,
-    "sha256": "dda0f33abe65a86fdec20516543f5896221c1924fdbcc6e94f8510198a9ab180",
-    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/WNV3/ensemble_mean/paired/atcf/WNV3_2026_09_25T18_00_atcf_a_deck.txt",
+    "path": "forecast_files/2026/09/26/WNV3_2026_09_26T00_00_atcf_a_deck.txt",
+    "row_count": 326,
+    "sha256": "f9068553f34cd9060246f3894361a9bf2640264f97e53ac03b570c968ce54dcd",
+    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/WNV3/ensemble_mean/paired/atcf/WNV3_2026_09_26T00_00_atcf_a_deck.txt",
     "storms": [
       "AL06",
       "AL07",
       "EP15",
       "EP16",
       "EP17",
+      "EP90",
       "WP25"
     ],
     "upstream_model": "WNV3"
