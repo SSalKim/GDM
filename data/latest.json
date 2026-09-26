@@ -5,8 +5,8 @@
     "max_lead_hour": 324,
     "model": "FNV3",
     "path": "forecast_files/2026/09/26/FNV3_2026_09_26T00_00_atcf_a_deck.txt",
-    "row_count": 316,
-    "sha256": "573ff1010b9cb9c3391f08f7b821573959de0c414bceabe6ba251f39f89d37ee",
+    "row_count": 318,
+    "sha256": "95cd57e7a947419d6e192b07f3c995e00590bbcdc516f3a4b753dea6f9b02e09",
     "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/FNV3P2/ensemble_mean/paired/atcf/FNV3P2_2026_09_26T00_00_atcf_a_deck.txt",
     "storms": [
       "AL06",
@@ -43,8 +43,8 @@
     "max_lead_hour": 324,
     "model": "WNV3",
     "path": "forecast_files/2026/09/26/WNV3_2026_09_26T00_00_atcf_a_deck.txt",
-    "row_count": 326,
-    "sha256": "f9068553f34cd9060246f3894361a9bf2640264f97e53ac03b570c968ce54dcd",
+    "row_count": 328,
+    "sha256": "1460f967a3706d2e8100096a43545e6c3d91351af7edff9faee41f37fbd1a48e",
     "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/WNV3/ensemble_mean/paired/atcf/WNV3_2026_09_26T00_00_atcf_a_deck.txt",
     "storms": [
       "AL06",

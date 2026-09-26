@@ -4,8 +4,8 @@
   "max_lead_hour": 324,
   "model": "WNV3",
   "path": "forecast_files/2026/09/26/WNV3_2026_09_26T00_00_atcf_a_deck.txt",
-  "row_count": 326,
-  "sha256": "f9068553f34cd9060246f3894361a9bf2640264f97e53ac03b570c968ce54dcd",
+  "row_count": 328,
+  "sha256": "1460f967a3706d2e8100096a43545e6c3d91351af7edff9faee41f37fbd1a48e",
   "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/WNV3/ensemble_mean/paired/atcf/WNV3_2026_09_26T00_00_atcf_a_deck.txt",
   "storms": [
     "AL06",
