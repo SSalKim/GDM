@@ -6,14 +6,14 @@
     "model": "FNV3",
     "path": "forecast_files/2026/09/27/FNV3_2026_09_27T06_00_atcf_a_deck.txt",
     "row_count": 410,
-    "sha256": "a962efa4d3976531163794eead4b3f599ba8068b15f376b39b13b9594b4c48d1",
+    "sha256": "991fcf9cf9a4b704ce971612c9ef2259178c3b997c67808e98dbdfbed5160c06",
     "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/FNV3P2/ensemble_mean/paired/atcf/FNV3P2_2026_09_27T06_00_atcf_a_deck.txt",
     "storms": [
       "AL06",
       "EP15",
       "EP16",
       "EP17",
-      "EP90",
+      "EP18",
       "WP25"
     ],
     "upstream_model": "FNV3P2"
@@ -25,13 +25,13 @@
     "model": "GENC",
     "path": "forecast_files/2026/09/27/GENC_2026_09_27T06_00_atcf_a_deck.txt",
     "row_count": 165,
-    "sha256": "9490d86a9c4b62f2aa6c4e03e35ffde33588fc076a64952b3585a0ea6c81176f",
+    "sha256": "9d3c952b1a33313d46e7cfffded265425586dff1269d69150d29ac2aaf7bc239",
     "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/GENC/ensemble_mean/paired/atcf/GENC_2026_09_27T06_00_atcf_a_deck.txt",
     "storms": [
       "EP15",
       "EP16",
       "EP17",
-      "EP90",
+      "EP18",
       "WP25"
     ],
     "upstream_model": "GENC"
@@ -43,14 +43,14 @@
     "model": "WNV3",
     "path": "forecast_files/2026/09/27/WNV3_2026_09_27T06_00_atcf_a_deck.txt",
     "row_count": 430,
-    "sha256": "3fa9f40df4a499318a7dac11c8164c9f34840ee29098562ada21fe3a2a4f01b5",
+    "sha256": "abf9342568fb4646be015d29ac07270882b45d9a23341e3f7be0d472a6a95a97",
     "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/WNV3/ensemble_mean/paired/atcf/WNV3_2026_09_27T06_00_atcf_a_deck.txt",
     "storms": [
       "AL06",
       "EP15",
       "EP16",
       "EP17",
-      "EP90",
+      "EP18",
       "WP25"
     ],
     "upstream_model": "WNV3"
