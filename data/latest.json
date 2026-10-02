@@ -16,14 +16,14 @@
     "upstream_model": "FNV3P2"
   },
   "GENC": {
-    "cycle_utc": "2026100118",
+    "cycle_utc": "2026100200",
     "display_name": "GenCast",
-    "max_lead_hour": 264,
+    "max_lead_hour": 312,
     "model": "GENC",
-    "path": "forecast_files/2026/10/01/GENC_2026_10_01T18_00_atcf_a_deck.txt",
-    "row_count": 117,
-    "sha256": "22fe7809a0bbec0e95d62a90766475a3cb0fba8d6ea060e04f8e176075d0e60a",
-    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/GENC/ensemble_mean/paired/atcf/GENC_2026_10_01T18_00_atcf_a_deck.txt",
+    "path": "forecast_files/2026/10/02/GENC_2026_10_02T00_00_atcf_a_deck.txt",
+    "row_count": 115,
+    "sha256": "0bb256ea6bb26c7de27a8ae58726e0d18820797d94a524c6cfd12014a386d50a",
+    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/GENC/ensemble_mean/paired/atcf/GENC_2026_10_02T00_00_atcf_a_deck.txt",
     "storms": [
       "EP15",
       "EP18",
