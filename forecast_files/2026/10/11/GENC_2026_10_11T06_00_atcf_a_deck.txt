@@ -1,7 +1,7 @@
-# If this file contains data that relates to a time less than 1 hour ago or in the future,
+# If this file contains data that relates to a time no more than 48 hours ago,
 # BY USING IT YOU AGREE TO THE LEGALLY BINDING TERMS OF USE FOUND AT
 #   https://storage.googleapis.com/weathernext-public/terms-of-use.pdf
-# Any data that relates to a time 1 hour or more in the past is licensed under the
+# Any data that relates to a time more than 48 hours ago is licensed under the
 # Creative Commons Attribution International License, Version 4.0 (CC BY 4.0).
 # BEGIN DATA
 EP, 18, 2026101106, 03, GENC,   0, 320N, 1163W,  57,  991, XX,  34, NEQ,     ,     ,     ,     ,     ,     ,    ,
