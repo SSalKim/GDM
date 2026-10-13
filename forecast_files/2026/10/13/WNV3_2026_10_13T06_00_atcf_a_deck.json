@@ -1,0 +1,18 @@
+{
+  "cycle_utc": "2026101306",
+  "display_name": "WeatherNext3 Cyclones",
+  "max_lead_hour": 318,
+  "model": "WNV3",
+  "path": "forecast_files/2026/10/13/WNV3_2026_10_13T06_00_atcf_a_deck.txt",
+  "row_count": 301,
+  "sha256": "e19da849b336dccaf9286c7cf6a4ef78898b4444ffee6f8633ff3d11af9bd69b",
+  "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/WNV3/ensemble_mean/paired/atcf/WNV3_2026_10_13T06_00_atcf_a_deck.txt",
+  "storms": [
+    "EP20",
+    "EP93",
+    "WP27",
+    "WP28",
+    "WP96"
+  ],
+  "upstream_model": "WNV3"
+}
