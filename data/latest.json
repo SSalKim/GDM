@@ -7,7 +7,7 @@
     "path": "forecast_files/2026/10/20/FNV3_2026_10_20T00_00_atcf_a_deck.txt",
     "row_count": 151,
     "sha256": "6506fb03c0eed51e034bbd0f19ecd4c5ddf7fc89fe49ce981fb7d51ea98833e3",
-    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/FNV3/ensemble_mean/paired/atcf/FNV3_2026_10_20T00_00_atcf_a_deck.txt",
+    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/FNV3P2/ensemble_mean/paired/atcf/FNV3P2_2026_10_20T00_00_atcf_a_deck.txt",
     "storms": [
       "AL93",
       "EP21",
@@ -15,7 +15,7 @@
       "IO93",
       "WP29"
     ],
-    "upstream_model": "FNV3"
+    "upstream_model": "FNV3P2"
   },
   "GENC": {
     "cycle_utc": "2026101918",
