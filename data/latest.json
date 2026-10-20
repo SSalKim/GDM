@@ -5,10 +5,11 @@
     "max_lead_hour": 162,
     "model": "FNV3",
     "path": "forecast_files/2026/10/19/FNV3_2026_10_19T18_00_atcf_a_deck.txt",
-    "row_count": 129,
-    "sha256": "e43d15c4902b6ad56e6a36aaf716c1385bd83bd7b036a46525651d91a8dae94a",
+    "row_count": 130,
+    "sha256": "910569d24f99c9064a17967903274dd60d0b60780246a12b40707de2bcdf441f",
     "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/FNV3P2/ensemble_mean/paired/atcf/FNV3P2_2026_10_19T18_00_atcf_a_deck.txt",
     "storms": [
+      "AL93",
       "EP21",
       "EP94",
       "IO93",
