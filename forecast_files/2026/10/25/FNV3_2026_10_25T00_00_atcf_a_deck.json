@@ -6,12 +6,12 @@
   "path": "forecast_files/2026/10/25/FNV3_2026_10_25T00_00_atcf_a_deck.txt",
   "row_count": 248,
   "sha256": "7db06b52e08cde39b8a05ff516ae6d7cc9874d6e0cb4458e81e0ad8842391a05",
-  "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/FNV3/ensemble_mean/paired/atcf/FNV3_2026_10_25T00_00_atcf_a_deck.txt",
+  "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/FNV3P2/ensemble_mean/paired/atcf/FNV3P2_2026_10_25T00_00_atcf_a_deck.txt",
   "storms": [
     "EP22",
     "IO98",
     "WP29",
     "WP30"
   ],
-  "upstream_model": "FNV3"
+  "upstream_model": "FNV3P2"
 }
