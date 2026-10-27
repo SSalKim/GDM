@@ -1,13 +1,13 @@
 {
   "FNV3": {
-    "cycle_utc": "2026102618",
+    "cycle_utc": "2026102700",
     "display_name": "WeatherNext2 Cyclones",
-    "max_lead_hour": 270,
+    "max_lead_hour": 276,
     "model": "FNV3",
-    "path": "forecast_files/2026/10/26/FNV3_2026_10_26T18_00_atcf_a_deck.txt",
-    "row_count": 185,
-    "sha256": "84ceafa5ab8e4668c31b1e702668fd5ea93ff7d9e8bc0142ab7ce916b54ea17f",
-    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/FNV3P2/ensemble_mean/paired/atcf/FNV3P2_2026_10_26T18_00_atcf_a_deck.txt",
+    "path": "forecast_files/2026/10/27/FNV3_2026_10_27T00_00_atcf_a_deck.txt",
+    "row_count": 182,
+    "sha256": "5655fc0de790f1180d137512b5cd35f66412c10d291d14fed3adc539bd33c026",
+    "source_url": "https://deepmind.google.com/science/weatherlab/download/cyclones/FNV3P2/ensemble_mean/paired/atcf/FNV3P2_2026_10_27T00_00_atcf_a_deck.txt",
     "storms": [
       "CP03",
       "EP22",
